@@ -8,5 +8,6 @@
         "JavaProj/json-simple-1.1.1.jar",
         "JavaProj/JavaProj/Pro/json-simple-1.1.1.jar"
     ],
-    "maven.executable.path": "C:\\Program Files\\apache-maven-3.9.6-bin\\apache-maven-3.9.6\\bin\\mvn.cmd"
+    "maven.executable.path": "C:\\Program Files\\apache-maven-3.9.6-bin\\apache-maven-3.9.6\\bin\\mvn.cmd",
+    "java.debug.settings.onBuildFailureProceed": true
 }
