@@ -136,8 +136,6 @@ public class FlightApiFetcher {
                                             fare.put("pricingOption", pricingOption);
                                             fares.add(fare);
                                         }
-                                    } else {
-                                        System.out.println("| No fare data available for this item within the itinerary                        |");
                                     }
                                 }
                             }
